@@ -1,0 +1,8 @@
+D:\Study\Projects\Visual C#\TH\TH\bin\Release\TH.exe
+D:\Study\Projects\Visual C#\TH\TH\bin\Release\TH.pdb
+D:\Study\Projects\Visual C#\TH\TH\obj\x86\Release\TH.csprojResolveAssemblyReference.cache
+D:\Study\Projects\Visual C#\TH\TH\obj\x86\Release\TH.Form1.resources
+D:\Study\Projects\Visual C#\TH\TH\obj\x86\Release\TH.Properties.Resources.resources
+D:\Study\Projects\Visual C#\TH\TH\obj\x86\Release\TH.csproj.GenerateResource.Cache
+D:\Study\Projects\Visual C#\TH\TH\obj\x86\Release\TH.exe
+D:\Study\Projects\Visual C#\TH\TH\obj\x86\Release\TH.pdb
